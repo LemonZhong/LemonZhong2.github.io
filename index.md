@@ -3,19 +3,19 @@
 
 
 
-## Ningze Zhong 
+## **Mr. Ningze Zhong**
 
-​  Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. You can       email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the        world a better place. 
+​  Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place. 
 
 
 
-## Education
+## **Education**
 
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
 
 
-## Paper & Work
+## **Paper & Work**
 
   I have publicly published **3** papers temporarily. **Representative work**:
 
@@ -27,7 +27,7 @@
 
 
 
-## Research Funding
+## **Research Funding**
 
   1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level
 
@@ -37,10 +37,11 @@
 
 
 
-## Software
+## **Software**
 
 1. Shine. It is an app like the Instagram added with some Chinese elements. Finshed in 2022.
 2. Financial Calculator. It is a comprehensive Financial Calculator. Finshed in 2021.
+
 
 
 
