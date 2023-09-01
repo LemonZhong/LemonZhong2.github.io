@@ -21,11 +21,15 @@
   **Representative work**:
 
   1.CASIT: Collective Intelligent Agent System for Internet of Things
+  
   **Ningze Zhong**, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu
+  
   I have submitted to IEEE Ineternet of Things Journal, waiting for acceptance.
 
   2.AI Education Based on Evaluating Concentration of Students in Class: Using Machine Vision to Recognize Students’ Classroom Behavior
+  
   Yuan Zhang, Changzhen Qiu, **Ningze Zhong**, Xieyang Su, Xuanrui Zhang, Fuquan Huang, Luping Wang, Liang Wang
+  
    Proceedings of the 2021 5th International Conference on Video and Image Processing
 
 ## **Research Funding**
