@@ -1,4 +1,5 @@
-<img src="C:\Users\Lemon Zhong\AppData\Roaming\Typora\typora-user-images\image-20230901150928422.png" alt="image-20230901150928422" style="zoom:50%;" />
+![8bb9388240e3f4b8565e5fa47973799](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/d25c36b1-f282-4324-97f7-bd691121d3d4)
+
 
 ## Ningze Zhong 
 
