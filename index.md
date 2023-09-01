@@ -17,7 +17,8 @@
 
 ## **Paper & Work**
 
-  I have publicly published **3** papers temporarily, mostly on Artificial Intelligence. **Representative work**:
+  I have publicly published **3** papers temporarily, mostly on Artificial Intelligence. 
+  **Representative work**:
 
   1.CASIT: Collective Intelligent Agent System for Internet of Things
 
