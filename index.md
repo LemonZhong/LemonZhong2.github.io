@@ -1,4 +1,5 @@
-![8bb9388240e3f4b8565e5fa47973799](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/d25c36b1-f282-4324-97f7-bd691121d3d4)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/96ed1733-f928-45af-9574-4211bd08ec4b)
+
 
 
 ## Ningze Zhong 
