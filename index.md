@@ -58,7 +58,7 @@
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/f58f26a7-1ba9-4fe3-8c72-8046fe58431b)
 
-3.Using helium balloons to improve the quality of satellite communication calls, obtaining the first prize in the College Electronic Design Competition.
+3.Using helium balloons to improve the quality of satellite communication calls like google's plan, obtaining the first prize in the College Electronic Design Competition.
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/164a2ce8-6b65-4312-a138-2406faaca349)
 
