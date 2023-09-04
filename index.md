@@ -34,18 +34,26 @@
 
 ## **Research Funding**
 
-  1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level
+  1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level. Using Artificial Intelligence to alleviate the bottlenecks of information transmission.
 
-  2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level
+  2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level. Using Neural Radince Field(NeRF) to reconstruct school campus.
 
-  3.￥1,400, Funded by Chinese Academy of Science
+  3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF) to reconstruct a comet.
 
 
+## **Sports Life**
+1.Volleyball faculty members in our department, 2022
+2.Member of school taekwondo club, 2022
 
-## **Software**
 
-1. Shine. It is an app like the Instagram added with some Chinese elements. Finshed in 2022.
-2. Financial Calculator. It is a comprehensive Financial Calculator. Finshed in 2021.
+## **Software and Ideas**
+
+1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account),scan the QR code with Wechat to use it.
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/736ca688-7f22-40f6-b02c-1a0108567cf8)
+
+2. Lemon Financial Calculator. I made the app when I was in my freshman year. It is a comprehensive Financial Calculator focused on financial calculating which has gained more than 700 users within a year. Finshed in 2021.
+
+
 
 
 
