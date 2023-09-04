@@ -46,14 +46,21 @@
 2.Member of school taekwondo club, 2022
 
 
-## **Software and Ideas**
+## **Software and Interesting Ideas**
 
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account),scan the QR code with Wechat to use it.
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a2c7e3a2-f92b-4fbe-8413-8c13f4dabf47)
 
 
-2. Lemon Financial Calculator. I made the app when I was in my freshman year. It is a comprehensive Financial Calculator focused on financial calculating which has gained more than 700 users within a year. Finshed in 2021.
+2. Lemon Financial Calculator. I made the app when I was in my freshman year. It is a comprehensive Financial Calculator focused on financial calculating which has gained more than 700 users within a year. Finshed in 2021. Scan the QR code with Wechat to use it.
+
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/f58f26a7-1ba9-4fe3-8c72-8046fe58431b)
+
+3.Using helium balloons to improve the quality of satellite communication calls, obtaining the first prize in the College Electronic Design Competition.
+
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/961b962f-19fa-4945-9ada-289d56c60ea6)
+
 
 
 
