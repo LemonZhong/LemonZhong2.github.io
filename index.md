@@ -47,7 +47,7 @@
 2.Member of school taekwondo club, 2022
 
 
-## **Software and Interesting Ideas**
+## **Softwares and Interesting Ideas**
 
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account),scan the QR code with Wechat to use it.
 
