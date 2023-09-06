@@ -14,7 +14,7 @@
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
 ## **Internship**
-  1.AI Research Internship, Institute for AI Industry Research(AIR Lab), Tsinghua University，2023
+  1.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023
 
 ## **Paper & Work**
 
