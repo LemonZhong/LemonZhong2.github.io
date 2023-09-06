@@ -13,6 +13,9 @@
 
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
+## **Internship**
+1. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023
+
 ## **Paper & Work**
 
   I have publicly published **3** papers temporarily, mostly on Artificial Intelligence. 
