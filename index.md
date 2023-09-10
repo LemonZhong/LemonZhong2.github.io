@@ -17,7 +17,7 @@
 1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/f9d6dd3a-6c90-41d3-b201-02bdd9b3cd26)
 3. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof.Yan Wang.
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/d44fb4fb-c13a-46b8-9901-520a5699ac7f)
+  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/4d9532fe-a973-469a-82e0-2738702e085d)
 
 
 ## **Paper & Work**
@@ -28,6 +28,7 @@
   1.CASIT: Collective Intelligent Agent System for Internet of Things. **Ningze Zhong**, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal(IF=10.6), waiting for acceptance.
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/c0d2fc09-3a20-4489-96a4-3fcb106e8957)
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/209da3f6-1197-41c5-8c8e-27f505b09815)
+  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/41a78fb2-493c-4f56-b94b-22a425e7d324)
 
 
 ## **Research Funding**
