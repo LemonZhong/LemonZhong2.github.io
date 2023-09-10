@@ -1,4 +1,4 @@
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/cfa3d3b7-bc81-44a8-b1ff-89684d493004)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/633fe57e-5a6a-44eb-bab7-453ad6f06938)
 
 
 
@@ -16,7 +16,7 @@
 ## **Experience**
 1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/1fcf6bee-3265-4031-82bd-3b18836cf359)
-3. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof.Yan Wang.
+2. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof.Yan Wang.
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/4d9532fe-a973-469a-82e0-2738702e085d)
 
 
@@ -45,23 +45,24 @@
 2.Member of school taekwondo club, 2022
 
 
-## **Softwares and Interesting Ideas**
+## **Projects**
 
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/035f2032-3364-4646-97fb-dbf2c6f93aa5)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/2c673582-f9a0-40c2-b3b5-fc897736f4c5)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/257476cc-c538-45f9-afb4-ab4339432e28)
+
+
 
 Scan the QR code with Wechat to use it.
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/60aa3584-de67-47ee-b363-254e6b2027b4)
 
 
-2. Lemon Financial Calculator. I made the app when I was in my freshman year. It is a comprehensive Financial Calculator focused on financial calculating which has gained more than 700 users within a year. Finshed in 2021. Scan the QR code with Wechat to use it.
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/f58f26a7-1ba9-4fe3-8c72-8046fe58431b)
+2.Using helium balloons to improve the quality of satellite communication calls like google's plan, obtaining the first prize in the College Electronic Design Competition.
 
-3.Using helium balloons to improve the quality of satellite communication calls like google's plan, obtaining the first prize in the College Electronic Design Competition.
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/925a97a6-b423-43bb-bc31-9ddfd4b6cd70)
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/164a2ce8-6b65-4312-a138-2406faaca349)
 
 
 
