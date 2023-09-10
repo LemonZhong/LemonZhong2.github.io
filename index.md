@@ -52,7 +52,7 @@
 
 Scan the QR code with Wechat to use it.
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a2c7e3a2-f92b-4fbe-8413-8c13f4dabf47)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/60aa3584-de67-47ee-b363-254e6b2027b4)
 
 
 2. Lemon Financial Calculator. I made the app when I was in my freshman year. It is a comprehensive Financial Calculator focused on financial calculating which has gained more than 700 users within a year. Finshed in 2021. Scan the QR code with Wechat to use it.
