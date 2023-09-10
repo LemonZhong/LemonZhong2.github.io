@@ -14,7 +14,7 @@
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
 ## **Lab Experience**
-1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.Supervised by Prof. Xiangwei Zhu.
+1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now. Supervised by Prof. Xiangwei Zhu.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a0d42fdd-d912-46c3-82f9-38d5d48e5dae)
 2. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. Yan Wang.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/fbd053b1-07cf-4ef5-97d3-898c7ebeb392)
