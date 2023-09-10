@@ -15,7 +15,7 @@
 
 ## **Experience**
 1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.
- ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/1fcf6bee-3265-4031-82bd-3b18836cf359)
+ ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a0d42fdd-d912-46c3-82f9-38d5d48e5dae)
 2. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. Yan Wang.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/fbd053b1-07cf-4ef5-97d3-898c7ebeb392)
 
