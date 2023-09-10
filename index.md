@@ -47,7 +47,10 @@
 
 ## **Softwares and Interesting Ideas**
 
-1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account),scan the QR code with Wechat to use it.
+1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/035f2032-3364-4646-97fb-dbf2c6f93aa5)
+
+Scan the QR code with Wechat to use it.
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a2c7e3a2-f92b-4fbe-8413-8c13f4dabf47)
 
