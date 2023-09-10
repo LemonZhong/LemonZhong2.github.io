@@ -1,4 +1,4 @@
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/633fe57e-5a6a-44eb-bab7-453ad6f06938)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/b70f3256-367d-43bf-9c03-beadbf231789)![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/633fe57e-5a6a-44eb-bab7-453ad6f06938)
 
 
 
@@ -48,8 +48,8 @@
 ## **Projects**
 
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/2c673582-f9a0-40c2-b3b5-fc897736f4c5)
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/257476cc-c538-45f9-afb4-ab4339432e28)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/c4edb2f1-961a-49a8-a62a-b666fdb6153e)
+
 
 
 
