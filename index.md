@@ -56,7 +56,7 @@
 
 Scan the QR code with Wechat to use it.
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/60aa3584-de67-47ee-b363-254e6b2027b4)
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/ba3f9dda-57dc-4a4f-941c-2345832933c6)
 
 
 
