@@ -28,7 +28,6 @@
   1.CASIT: Collective Intelligent Agent System for Internet of Things. **Ningze Zhong**, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal(IF=10.6), waiting for acceptance.
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/c0d2fc09-3a20-4489-96a4-3fcb106e8957)
   ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/209da3f6-1197-41c5-8c8e-27f505b09815)
-  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/41a78fb2-493c-4f56-b94b-22a425e7d324)
 
 
 ## **Research Funding**
