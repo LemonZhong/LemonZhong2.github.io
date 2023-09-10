@@ -22,11 +22,9 @@
   I have publicly published **3** papers temporarily, mostly on Artificial Intelligence. 
   **Representative work**:
 
-  1.CASIT: Collective Intelligent Agent System for Internet of Things
-  
-  **Ningze Zhong**, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu
-  
-  I have submitted to IEEE Ineternet of Things Journal, waiting for acceptance.
+  1.CASIT: Collective Intelligent Agent System for Internet of Things.**Ningze Zhong**, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal, waiting for acceptance.
+  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/c0d2fc09-3a20-4489-96a4-3fcb106e8957)
+
 
   2.AI Education Based on Evaluating Concentration of Students in Class: Using Machine Vision to Recognize Students’ Classroom Behavior
   
