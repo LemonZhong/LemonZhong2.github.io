@@ -13,8 +13,8 @@
 
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
-## **Experience**
-1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.
+## **Lab Experience**
+1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now.Supervised by Prof. Xiangwei Zhu.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a0d42fdd-d912-46c3-82f9-38d5d48e5dae)
 2. AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. Yan Wang.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/fbd053b1-07cf-4ef5-97d3-898c7ebeb392)
@@ -35,9 +35,9 @@
 
   1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level. Using Artificial Intelligence to alleviate the bottlenecks of information transmission.
 
-  2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level. Using Neural Radince Field(NeRF) to reconstruct school campus.
+  2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level. Using Neural Radince Field (NeRF, an AI Algorithm) to reconstruct school campus.
 
-  3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF) to reconstruct a comet.
+  3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF, an AI Algorithm) to reconstruct a comet.
 
 
 ## **Sports Life**
