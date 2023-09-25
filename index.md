@@ -36,6 +36,7 @@
   1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level. Using Artificial Intelligence to alleviate the bottlenecks of information transmission.
 
   2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level. Using Neural Radince Field (NeRF, an AI Algorithm) to reconstruct school campus.
+![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/06a24493-8a05-444e-a866-db0e2a4575d3)
 
   3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF, an AI Algorithm) to reconstruct a comet.
 
