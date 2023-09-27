@@ -7,7 +7,6 @@
 
 ​  Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place. 
 
-**·** Reviewer of IEEE Internet of Things Journal (IF=10.6)
 
 ## **Education**
 
