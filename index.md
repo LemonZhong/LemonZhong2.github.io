@@ -12,6 +12,14 @@
 
   Sun Yat-sen University, B.S. degree, 2021/9~2025/7
 
+## **Expertise**
+
+1.AI for All. 
+Using Artificial Intelligence to solve the problems in the world, including computer vision and vision-language models.
+
+2.Internet of things.
+Combining softwares and hardwares to make our physical world a better place. Also interested in communication engineering and signals processing.
+
 ## **Lab Experience**
 1. Lab Member, CPNT Lab, Sun Yat-sen University，2022~now. Supervised by Prof. Xiangwei Zhu.
  ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/a0d42fdd-d912-46c3-82f9-38d5d48e5dae)
