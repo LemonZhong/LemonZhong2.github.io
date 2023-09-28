@@ -14,7 +14,7 @@
 
 ## **Expertise**
 
-1.AI for All. 
+1.AI for all. 
 Using Artificial Intelligence to solve the problems in the world, including computer vision and vision-language models.
 
 2.Internet of things.
