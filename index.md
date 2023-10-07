@@ -5,7 +5,7 @@
 
 ## **Mr. Ningze Zhong**
 
-​  Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place. 
+​  Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member and also the reviewer of an SCI Q1 journal. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place. 
 
 
 ## **Education**
@@ -68,7 +68,7 @@ Scan the QR code with Wechat to use it.
 
 
 
-2.Using helium balloons to improve the quality of satellite communication calls like google's plan, obtaining the first prize in the College Electronic Design Competition.
+2.Using helium balloons to improve the quality of satellite communication, obtaining the first prize in the College Electronic Design Competition.
 
 ![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/925a97a6-b423-43bb-bc31-9ddfd4b6cd70)
 
